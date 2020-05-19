@@ -1,0 +1,5 @@
+version: "Swift version 5.3-dev (LLVM 5a342fdfac, Swift 3a4fe71ab2)"
+options: "afdcf2caf74ad6e9a19544be4d82590f"
+build_time: [1589494901, 268205000]
+inputs:
+  "/Users/ayushitiwari/Documents/inference/inference/main.swift": [9223372036, 854775807]
